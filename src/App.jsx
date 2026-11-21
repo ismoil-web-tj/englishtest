@@ -8,7 +8,6 @@ function App() {
 
   return (
     <div className="min-h-screen bg-[#FFF9F6]">
-      {/* Шапка сайта */}
       <ConfectioneryHeader />
       <Hero/>
       <Footer/>

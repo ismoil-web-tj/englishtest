@@ -152,7 +152,7 @@ const Footer = () => {
           </span>
 
           <span className="text-[8px] text-[#5C4033]/50 font-semibold tracking-wide text-right">
-            {/* Разработчик: 92-905-00-35 */}
+            Разработчик: 92-905-00-35
           </span>
 
         </div>
